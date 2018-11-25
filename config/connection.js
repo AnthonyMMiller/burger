@@ -14,7 +14,7 @@ else
 	{
 		host: 'localhost',
 		user: 'root',
-		password: '',
+		password: 'balla456',
 		database: 'burgers_db'
 	});
 };
